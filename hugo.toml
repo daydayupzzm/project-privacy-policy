@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://daydayupzzm.github.io/'
 languageCode = 'en-us'
 title = 'Privacy Policy'
 theme = "hugo-book"
+# Set type to 'docs' if you want to render page outside of configured section or if you render section other than 'docs'
+type = 'docs'
